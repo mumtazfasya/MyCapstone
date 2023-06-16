@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">EasyChic</string>
+    <string name="deskripsi_barang">Item Description</string>
+    <string name="harga_barang">Price of goods</string>
+    <string name="nama_bahan">Nama Bahan</string>
+    <string name="ukuran_barang">Material Name</string>
+    <string name="ketebalan_barang">Goods Thickness</string>
+    <string name="judulArtikel">Article Title</string>
+    <string name="descArtikel">Article Description</string>
+    <string name="heroes_name">Hero Name</string>
+    <string name="description">Description</string>
+    <string name="players_name">Players</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="name_players">Players</string>
+    <string name="cotton_combed">Cotton Combed</string>
+    <string name="spandex">Spandex</string>
+    <string name="polyester">Polyester</string>
+    <string name="none">None</string>
+    <string name="_20s">20s</string>
+    <string name="_24s">24s</string>
+    <string name="_30s">30s</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+    <string name="xxl">XXL</string>
+    <string name="sage">Sage</string>
+    <string name="grey">Grey</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="maroon">Maroon</string>
+    <string name="profile">Profile</string>
+    <string name="nama_barang">Name of goods</string>
+    <string name="harga">Price</string>
+    <string name="bahan">Material</string>
+    <string name="ukuran">Size</string>
+    <string name="ketebalan">Thickness</string>
+    <string name="jumlah">Amount</string>
+    <string name="bayar_sekarang">Pay Now</string>
+    <string name="total">Total:</string>
+    <string name="rp_0">Rp.0</string>
+    <string name="apa_preferensimu">What\'s Your Preference?</string>
+    <string name="warna">Colors</string>
+    <string name="send">Send</string>
+    <string name="rekomendasi">Recommendation</string>
+    <string name="nasi_putih_kosong">Empty White Rice</string>
+    <string name="nasi_kuning_telor_bumbu">Seasoned Egg Yellow Rice</string>
+    <string name="nasi_padang_saos_rendang">Nasi Padang Sauce Rendang</string>
+    <string name="produk">Product</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="theme">Theme</string>
+
+    <string-array name="data_name">
+        <item>A Rebel With A Cause</item>
+        <item>T-Shirt</item>
+        <item>Undershirts</item>
+        <item>Message Shirt</item>
+        <item>High Fashion Adoption</item>
+        <item>Raw Materials</item>
+        <item>The Future</item>
+        <item>What Makes a Quality T-Shirt?</item>
+        <item>How to Wash White Clothes</item>
+        <item>Best T-Shirts Are Made With This</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nearly 70 years after Brando sported one as Stanley Kowalski, and over a century after its advent, what is now a universal fashion staple is the focus of Cult – Culture – Subversion, a major new exhibition at London Fashion and Textile Museum. A collaboration between the museum and The Civic in Barnsley, it takes a comprehensive look at the evolution of the T-shirt from its early days to the present, through a plethora of garments, photographs, ephemera, and other archival material sourced predominantly from private collections.</item>
+        <item>From its origins as men underwear to its complex role in modern fashion, the T-shirt is today one of the most universally worn items of clothing. Cheap, hygienic, and comfortable, the T-shirt has become an essential basic wardrobe item worn by people of all social classes and ages.</item>
+        <item>In the late nineteenth century when health-oriented concerns became prevalent, doctors and physicians advised wearing warm undershirts to protect from colds and rheumatism. Dr. Jaeger lauded the healthful benefits of wearing knitted underwear made of wool and manufactured his own line of knit undershirts. </item>
+        <item>Since the late 1960s and 1970s, the T-shirt has evolved and proliferated at a rapid rate. Decorative techniques used to create expressive statements on T-shirts became popular from the 1960s onward. Graphic designs, novelty patterns, and written words lionize rock n roll bands, promote products and places, and express political and community-minded causes. </item>
+        <item>High fashion adopted the T-shirt as early as 1948. A model appeared on the cover of Life magazine and ran a story that featured T-shirts by American designers Claire McCardell, Ceil Chapman, and Valentina. The article demonstrated how the sports shirt was now a street and evening style. The 1960s saw it go from street fashion to silk haute couture versions in the collections of such designers as Pierre Balmain and Christian Dior.</item>
+        <item>The majority of T-shirts are made of 100% cotton, polyester, or a cotton/polyester blend. Environmentally conscious manufacturers may use organically grown cotton and natural dyes. Stretchable T-shirts are made of knit fabrics, especially jerseys, rib knits, and interlock rib knits, which consist of two ribbed fabrics that are joined together.</item>
+        <item>Exposure to sun harmful rays has become a concern to many people who enjoy outdoor activities. In addition to sunscreen and sun glasses, sun–blocking T-shirts are now available. Founded by Harvey Schakowsky, SPF Wear company has introduced a line of clothing, including T-shirts, that blocks out 93-99% of ultraviolet rays. A typical T-shirt blocks out only 50% of the rays. Using a fabric called Solarweave, these new T-shirts are made out of synthetically woven nylon treated with a special chemical substance.</item>
+        <item>PP: Fabric is of course the foundation of the garment. It needs to be of the highest-quality cotton and yarn. So many steps go into spinning the yarn, knitting the fabric, and also the finishing stages. In our case, these steps are all completed in the USA, which makes quality control much easier. \nBW: Fabric has lots of characteristics that determine how it will perform over time. For instance, with our premium tee slub, we considered how the slub draped, how it performed, how it tested in twist and transparency, and then engineered the fabric to hit the specs we were gunning for. Tackle what’s not working about the fabric with both your yarn suppliers and your knitters — and ultimately exceed what you’re trying to do. The fabric is the key to a quality tee.</item>
+        <item>Prevention a mess is better than having to clean it up, so let us start with before you even have a less-than-white tee. A common issue with dingy white tees is yellow pit stains. Yellow pit stains aren not caused by your sweat. Rather, they were caused by the aluminum found in many deodorants. Aluminum is great for preventing sweaty pits, but not for keeping your tee clean and pristine. A reaction occurs when the aluminum mixes with the salts of your sweat, which causes the yellow stain.</item>
+        <item>What selvedge denim is to jeans, loopwheel knitting is to t-shirts and sweatshirts. Loopwheeling — a special tube-knitting method using cotton yarns — is an all-but-extinct manufacturing style associated with durable, high-quality fabrics. Nearly a century ago, large brands like Champion and L.L. Bean used it for their best stuff.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/artikel0</item>
+        <item>@drawable/artikel1</item>
+        <item>@drawable/artikel2</item>
+        <item>@drawable/artikel3</item>
+        <item>@drawable/artikel4</item>
+        <item>@drawable/artikel5</item>
+        <item>@drawable/artikel6</item>
+        <item>@drawable/artikel7</item>
+        <item>@drawable/artikel8</item>
+        <item>@drawable/artikel9</item>
+    </integer-array>
+
+    <string-array name="colors">
+        <item>Colors</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Mustard</item>
+        <item>Sage</item>
+        <item>Grey</item>
+        <item>Maroon</item>
+    </string-array>
+
+    <string-array name="quality">
+        <item>Quality</item>
+        <item>Cotton Combed</item>
+        <item>Spandex</item>
+        <item>Polyester</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>Size</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+
+    <string-array name="thickness">
+        <item>Thickness</item>
+        <item>None</item>
+        <item>20s</item>
+        <item>24s</item>
+        <item>30s</item>
+    </string-array>
+</resources>

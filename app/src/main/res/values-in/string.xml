@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyChic</string>
+    <string name="deskripsi_barang">Deskripsi Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="nama_bahan">Nama Bahan</string>
+    <string name="ukuran_barang">Ukuran Barang</string>
+    <string name="ketebalan_barang">Ketebalan Barang</string>
+    <string name="judulArtikel">Judul Artikel</string>
+    <string name="descArtikel">Deskripsi Artikel</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="players_name">Pemain</string>
+    <string name="list">Daftar</string>
+    <string name="grid">Kisi</string>
+    <string name="name_players">Pemain</string>
+    <string name="cotton_combed">Katun Combed</string>
+    <string name="spandex">Spandeks</string>
+    <string name="polyester">Poliester</string>
+    <string name="none">Tidak ada</string>
+    <string name="_20s">20s</string>
+    <string name="_24s">24s</string>
+    <string name="_30s">30s</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+    <string name="xxl">XXL</string>
+    <string name="sage">Sage</string>
+    <string name="grey">Abu-abu</string>
+    <string name="black">Hitam</string>
+    <string name="white">Putih</string>
+    <string name="maroon">Merah Muda</string>
+    <string name="profile">Profil</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="harga">Harga</string>
+    <string name="bahan">Bahan</string>
+    <string name="ukuran">Ukuran</string>
+    <string name="ketebalan">Ketebalan</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="total">Total:</string>
+    <string name="rp_0">Rp.0</string>
+    <string name="apa_preferensimu">Apa Preferensimu?</string>
+    <string name="warna">Warna</string>
+    <string name="send">Kirim</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="nasi_putih_kosong">Nasi Putih Kosong</string>
+    <string name="nasi_kuning_telor_bumbu">Nasi Kuning Telor Bumbu</string>
+    <string name="nasi_padang_saos_rendang">Nasi Padang Saos Rendang</string>
+    <string name="produk">Produk</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="theme">Tema</string>
+
+    <string-array name="colors">
+        <item>Warna</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Mustard</item>
+        <item>Sage</item>
+        <item>Grey</item>
+        <item>Maroon</item>
+    </string-array>
+
+    <string-array name="quality">
+        <item>Bahan</item>
+        <item>Cotton Combed</item>
+        <item>Spandex</item>
+        <item>Polyester</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>Ukuran</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+
+    <string-array name="thickness">
+        <item>Ketebalan</item>
+        <item>None</item>
+        <item>20s</item>
+        <item>24s</item>
+        <item>30s</item>
+    </string-array>
+
+</resources>

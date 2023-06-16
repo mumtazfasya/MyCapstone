@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title="S"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/item2"
+        android:title="@string/m"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/item3"
+        android:title="@string/l"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/item4"
+        android:title="@string/xl"
+        android:orderInCategory="4"/>
+    <item
+        android:id="@+id/item5"
+        android:title="@string/xxl"
+        android:orderInCategory="5"/>
+</menu>
