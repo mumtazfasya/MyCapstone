@@ -12,7 +12,8 @@ EasyChic is taken from the English “easy” and “chic” which is inspired b
 
 In Login and Register I use Firebase
 
-![WhatsApp Image 2023-06-16 at 22 17 34](https://github.com/mumtazfasya/MyCapstone/assets/116564790/4ea75fe6-c678-4990-8812-2bc886f0500e)
+![WhatsApp Image 2023-06-16 at 22 17 34](https://github.com/mumtazfasya/MyCapstone/assets/116564790/4ea75fe6-c678-4990-8812-2bc886f0500e) ![WhatsApp Image 2023-06-16 at 22 37 59](https://github.com/mumtazfasya/MyCapstone/assets/116564790/bcb76dcf-6c62-4e34-8155-e40950bbf538)
+
 
 2. Recommendation System
 
